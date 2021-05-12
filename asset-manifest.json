@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/scrum-board/static/css/main.8c3f1ea7.chunk.css",
+    "main.js": "/scrum-board/static/js/main.0585ddc7.chunk.js",
+    "main.js.map": "/scrum-board/static/js/main.0585ddc7.chunk.js.map",
+    "runtime-main.js": "/scrum-board/static/js/runtime-main.32e3e670.js",
+    "runtime-main.js.map": "/scrum-board/static/js/runtime-main.32e3e670.js.map",
+    "static/css/2.17f8cf15.chunk.css": "/scrum-board/static/css/2.17f8cf15.chunk.css",
+    "static/js/2.7aed8796.chunk.js": "/scrum-board/static/js/2.7aed8796.chunk.js",
+    "static/js/2.7aed8796.chunk.js.map": "/scrum-board/static/js/2.7aed8796.chunk.js.map",
+    "index.html": "/scrum-board/index.html",
+    "precache-manifest.1428c5c62f175b9a95a68fba710d1e38.js": "/scrum-board/precache-manifest.1428c5c62f175b9a95a68fba710d1e38.js",
+    "service-worker.js": "/scrum-board/service-worker.js",
+    "static/css/2.17f8cf15.chunk.css.map": "/scrum-board/static/css/2.17f8cf15.chunk.css.map",
+    "static/css/main.8c3f1ea7.chunk.css.map": "/scrum-board/static/css/main.8c3f1ea7.chunk.css.map",
+    "static/js/2.7aed8796.chunk.js.LICENSE.txt": "/scrum-board/static/js/2.7aed8796.chunk.js.LICENSE.txt",
+    "static/media/fontello.css": "/scrum-board/static/media/fontello.e08f4fdc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32e3e670.js",
+    "static/css/2.17f8cf15.chunk.css",
+    "static/js/2.7aed8796.chunk.js",
+    "static/css/main.8c3f1ea7.chunk.css",
+    "static/js/main.0585ddc7.chunk.js"
+  ]
+}
