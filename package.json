@@ -1,0 +1,54 @@
+{
+  "name": "scrum-board",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://ashwin19971.github.io/scrum-board",
+  "dependencies": {
+    "h8k-design": "^1.0.16",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwin19971/scrum-board.git"
+  },
+  "author": "Ashwin Giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwin19971/scrum-board/issues"
+  },
+  "description": "Scrum board to manage tasks",
+  "keywords": [
+    "\"Html",
+    "Css",
+    "Js",
+    "React.js\""
+  ]
+}
