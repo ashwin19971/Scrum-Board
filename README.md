@@ -13,3 +13,5 @@
 - start the project using `npm start`
 
 That's it, the application server will be started on http://localhost:3000/
+
+View the application on https://ashwin19971.github.io/scrum-board/
